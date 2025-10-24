@@ -1,6 +1,4 @@
 
-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
-
 docker pull python:3.11-slim
 
 
